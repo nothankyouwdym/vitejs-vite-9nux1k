@@ -37,6 +37,11 @@ body {
   margin: 0;
 }
 
+span
+{
+  margin: 10px;
+}
+
 /**
  * Render the `main` element consistently in IE.
  */
