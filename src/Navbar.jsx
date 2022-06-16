@@ -7,7 +7,7 @@ class Navbar extends Component{
     return(
       <nav>
         <Link to="/Basics">Basics</Link>
-        <Link to="/HowTo">Basics</Link>
+        <Link to="/HowTo">How-To</Link>
       </nav>
     );
   }
