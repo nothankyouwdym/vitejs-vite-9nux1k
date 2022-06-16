@@ -1,11 +1,10 @@
-import React, { Component } from "react"
-import Navbar from "./Navbar"
-import {Outlet} from "react-router-dom"
+import React, { Component } from 'react';
+import Navbar from './Navbar';
+import { Outlet } from 'react-router-dom';
 
-
-class App extends Component{
-  render(){
-    return(
+class App extends Component {
+  render() {
+    return (
       <div>
         <h1>Project: Geneva</h1>
         <Navbar />
@@ -15,4 +14,4 @@ class App extends Component{
   }
 }
 
-export default App
+export default App;
