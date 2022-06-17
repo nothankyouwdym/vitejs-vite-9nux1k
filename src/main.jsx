@@ -11,11 +11,13 @@ import EApp from "./Energy/EApp"
 import EBasics from "./Energy/EBasics"
 import HowItWork from "./Energy/HowItWork"
 import Original from "./Energy/Original"
+import Home from './Home'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>
         <Routes>
             <Route path="/" element={<App />}>
+              <Route path="/" element={<Home />}></Route>
                 <Route path="Basics" element={<Basics />}></Route>
                 <Route path="How-To-Make-A-Nuke" element={<HowTo />}></Route>
                 <Route path="About-Us" element={<AboutUs />}></Route>
