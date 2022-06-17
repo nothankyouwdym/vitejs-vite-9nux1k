@@ -383,7 +383,7 @@ html {
 }
 
 body {
-  color:#404040;
+  color: green;
   background: black;
   font-size: 1rem;
 }
@@ -413,7 +413,7 @@ h5 {
   font-weight: 600;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
   line-height: 1.2;
-  color: #404040;
+  color: green;
 }
 
 h1:not(:first-child),
@@ -787,9 +787,9 @@ dd {
 .button, a.button, button, [type=submit], [type=reset], [type=button] {
   -webkit-appearance: none;
   display: inline-block;
-  border: 1px solid #0366ee;
+  border: 1px solid grey;
   border-radius: 4px;
-  background: #0366ee;
+  background: grey;
   color: #ffffff;
   font-weight: 600;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
