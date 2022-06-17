@@ -7,6 +7,10 @@ import Basics from './Basics'
 import HowTo from './HowTo'
 import AboutUs from './AboutUs'
 import History from './History'
+import EApp from "./Energy/EApp"
+import EBasics from "./Energy/EBasics"
+import HowItWork from "./Energy/HowItWork"
+import Original from "./Energy/Original"
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>
@@ -16,6 +20,12 @@ ReactDOM.createRoot(document.getElementById('root')).render(
                 <Route path="How-To-Make-A-Nuke" element={<HowTo />}></Route>
                 <Route path="About-Us" element={<AboutUs />}></Route>
                 <Route path="Nuke-History" element={<History />}></Route>
+            </Route>
+
+            <Route path="Energy" element={<EApp />}>
+              <Route path="Basics-Of-Energy" element={<EBasics />}></Route>
+              <Route path="How-Energy-Works" element={<HowItWork />}></Route>
+              <Route path="Where-We-Got-Energy" element={<Original />}></Route>
             </Route>
         </Routes>
   </BrowserRouter>
