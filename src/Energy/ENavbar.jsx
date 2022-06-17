@@ -10,7 +10,7 @@ class Navbar extends Component{
         <Link to="How-Energy-Works"><span>What Is Energy</span></Link>
         <Link to="Where-We-Got-Energy"><span>Origination</span></Link>
         <Link to="/"><span>Nukes</span></Link>
-      </nav
+      </nav>
     );
   }
 }
