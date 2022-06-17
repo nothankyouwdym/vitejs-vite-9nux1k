@@ -1,3 +1,1 @@
-# vitejs-vite-9nux1k
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-9nux1k)
+Science Project website here is my github where I add changes and it publishes automatically to my web hoster.
