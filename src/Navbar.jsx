@@ -10,6 +10,7 @@ class Navbar extends Component{
         <Link to="/How-To-Make-A-Nuke"><span>How-To</span></Link>
         <Link to="/About-Us"><span>About Us</span></Link>
         <Link to="/Nuke-History"><span>Nuke History</span></Link>
+        <Link to="/Energy"><span>Energy</span></Link>
       </nav>
     );
   }
