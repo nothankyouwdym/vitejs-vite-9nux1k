@@ -383,8 +383,8 @@ html {
 }
 
 body {
-  color: green;
-  background: black;
+  color: black;
+  background: #404040;
   font-size: 1rem;
 }
 
@@ -413,7 +413,7 @@ h5 {
   font-weight: 600;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
   line-height: 1.2;
-  color: green;
+  color: gray;
 }
 
 h1:not(:first-child),
