@@ -7,9 +7,8 @@ class App extends Component{
   render(){
     return(
       <div>
-            <h1>Project: The Big Bang</h1>
-
             <ENavBar />
+            <h1>Project: The Big Bang</h1>
             <Outlet />
       </div>      
     );
