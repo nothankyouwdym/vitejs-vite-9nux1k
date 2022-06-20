@@ -1,13 +1,13 @@
 import React, { Component } from "react"
 
 
-class Home extends Component{
+class EHome extends Component{
   render(){
     return(
       <p>
         <strong>
           <em>
-            Hi, this is Boubacar's and Luan's project welcome to our thermal energy page.
+             Welcome to our  energy page.
           </em>
         </strong>
       </p>
@@ -16,4 +16,4 @@ class Home extends Component{
 }
 
 
-export default Home
+export default EHome

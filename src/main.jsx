@@ -12,6 +12,7 @@ import EBasics from "./Energy/EBasics"
 import HowItWork from "./Energy/HowItWork"
 import Original from "./Energy/Original"
 import Home from './Home'
+import EHome from "./Energy/EHome"
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>
@@ -25,6 +26,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             </Route>
 
             <Route path="Energy" element={<EApp />}>
+              <Route path="/Energy" element={<EHome />}></Route>
               <Route path="Basics-Of-Energy" element={<EBasics />}></Route>
               <Route path="How-Energy-Works" element={<HowItWork />}></Route>
               <Route path="Where-We-Got-Energy" element={<Original />}></Route>
