@@ -38,7 +38,7 @@ As a result, development of Fat Man was given high priority. Chemical explosives
 
 After D-Day, General Groves ordered a team of scientists to follow eastward-moving victorious Allied troops into Europe to assess the status of the German nuclear program (and to prevent the westward-moving Soviets from gaining any materials or scientific manpower). They concluded that, while Germany had an atomic bomb program headed by Werner Heisenberg, the government had not made a significant investment in the project, and it had been nowhere near success. Similarly, Japan's efforts at developing a nuclear weapon were starved of resources. The Japanese navy lost interest when a committee led by Yoshio Nishina concluded in 1943 that "it would probably be difficult even for the United States to realize the application of atomic power during the war".
 
-Historians claim to have found a rough schematic showing a Nazi nuclear bomb.[19] In March 1945, a German scientific team was directed by the physicist Kurt Diebner to develop a primitive nuclear device in Ohrdruf, Thuringia. Last ditch research was conducted in an experimental nuclear reactor at Haigerloch.
+Historians claim to have found a rough schematic showing a Nazi nuclear bomb. In March 1945, a German scientific team was directed by the physicist Kurt Diebner to develop a primitive nuclear device in Ohrdruf, Thuringia. Last ditch research was conducted in an experimental nuclear reactor at Haigerloch.
                 </em>
               </strong>
             </p>
