@@ -1,1 +1,1 @@
-Science Project website here is my github where I add changes and it publishes automatically to my web hoster.
+Scie this is my science project where I show some stuff about nukes and energy I guess so yeah enjoy.
