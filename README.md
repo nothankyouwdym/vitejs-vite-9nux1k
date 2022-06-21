@@ -1,1 +1,1 @@
-Scie this is my science project where I show some stuff about nukes and energy I guess so yeah enjoy.
+Hey this is Boubacar and Luan's science project where I show some stuff about nukes and energy I guess so yeah enjoy. Click the links to get around and see new information.
