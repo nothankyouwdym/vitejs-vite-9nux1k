@@ -383,6 +383,7 @@ html {
 }
 
 body {
+  mix-blend-mode:darken;
   color: black;
   background: #404040;
   font-size: 1rem;
@@ -413,7 +414,7 @@ h5 {
   font-weight: 600;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
   line-height: 1.2;
-  color: gray;
+  color: black;
 }
 
 h1:not(:first-child),
