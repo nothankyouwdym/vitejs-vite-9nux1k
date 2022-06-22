@@ -385,7 +385,7 @@ html {
 body {
   mix-blend-mode:darken;
   color: black;
-  background: #404040;
+  background: #78b6da;
   font-size: 1rem;
   shape-outside: circle(50%); /* content will flow around the circle*/
   
