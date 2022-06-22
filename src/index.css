@@ -387,6 +387,8 @@ body {
   color: black;
   background: #404040;
   font-size: 1rem;
+  shape-outside: circle(50%); /* content will flow around the circle*/
+  
 }
 
 p,
@@ -415,6 +417,7 @@ h5 {
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
   line-height: 1.2;
   color: black;
+  shape-outside: circle(50%); /* content will flow around the circle*/
 }
 
 h1:not(:first-child),
